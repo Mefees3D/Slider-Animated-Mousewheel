@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+
+.item{
+    background-color: blue;
+    height: 300px;
+}
+
+
+.owl-nav{
+    font-size: 50px;
+    border:1px red solid;
+}
+
+/* DOTS */
+.owl-dots {
+    margin-top: -30px !important;
+    z-index: 1;
+    position: relative;
+}
+.owl-dots button{
+    outline: none;
+}
